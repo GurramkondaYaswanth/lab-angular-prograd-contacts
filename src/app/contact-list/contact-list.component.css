@@ -21,3 +21,24 @@ li {
   margin-top: 20px;
   width: 30%;
 }
+
+.contact-form{
+  margin-left: 20%;
+  width: 50%;
+  margin-top: 20px;
+  border: 1px solid white;
+  background-color: gainsboro;
+}
+
+.field{
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.button{
+  background-color: orangered;
+  color: white;
+  text-align: center;
+  padding: 3px;
+  border: 1px solid orangered;
+}
